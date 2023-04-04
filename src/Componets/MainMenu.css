@@ -1,0 +1,38 @@
+.main_menu_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
+
+
+.menu_item_container{
+  margin: 2px;
+  text-align: center;
+  background-color: white;
+  filter: drop-shadow(0px 1px 2px rgba(183, 183, 183, 0.514)) drop-shadow(0px 1px 1px rgba(134, 134, 134, 0.612)) ;
+  padding-bottom: 10px;
+  cursor: pointer;
+}
+
+.menu_item_container img {
+    width:100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.menu_item_title{
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: rgb(71, 71, 71);
+    padding-top: 5px;
+    padding-bottom: 3px;
+}
+
+.menu_item_price{
+    font-size: 16px;
+    color: rgb(43, 43, 43);
+    font-weight: bold;
+}
+
+
+

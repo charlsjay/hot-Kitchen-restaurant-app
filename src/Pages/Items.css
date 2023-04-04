@@ -1,0 +1,9 @@
+.items_container table{
+    margin-top: 20px;
+}
+
+.items_container img {
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+}

@@ -1,0 +1,32 @@
+*{
+
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+   background-color: #f7f9fe !important; 
+}
+
+.box_shadow{
+    filter: drop-shadow(0px 1px 2px rgba(183, 183, 183, 0.514)) drop-shadow(0px 1px 1px rgba(134, 134, 134, 0.612)) ;
+}
+
+
+
+.center_div{                     
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    min-height: 100vh;
+}
+
+/* this css function can used mostly center the main devs */
+
+
+.subtitle{
+     font-size:  25px;
+     text-align: center;
+     font-weight: bold;
+     padding-top: 10px;
+     padding-bottom: 10px;
+}

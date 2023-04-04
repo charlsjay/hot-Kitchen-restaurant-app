@@ -1,0 +1,15 @@
+.Login_container{
+     width: 40%;
+
+}
+
+.Login_container h2{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Login_container button{
+    margin-top: 10px;
+    width: 100%;
+}

@@ -1,0 +1,14 @@
+.Submit_button{
+     width: 100%;
+     margin-top: 10px;
+
+}
+
+.item_form_container img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    text-align: center ;
+   
+}
+
