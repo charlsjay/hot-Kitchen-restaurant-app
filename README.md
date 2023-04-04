@@ -1,4 +1,4 @@
-HOT-KITCHEN-RESTAURANT
+<h3>HOT-KITCHEN-RESTAURANT</h3>
 <hr>
 
 This is a React.js hot-Kitchen-restaurant website was built in my experience. It shows all benefits of creating websites using React.js
